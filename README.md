@@ -8,11 +8,11 @@ Aim of this project is to take display window image and find faces in the image 
 - Label
 - Save image which have recognized face'
 
-* Window Screen is captured using pyautogui
+1. Window Screen is captured using pyautogui
 
-* Image Processing is done by OpenCV
+2. Image Processing is done by OpenCV
 
-* Face Recognition is done by face-recognition
+3. Face Recognition is done by face-recognition
 
 ## Libraries Used
 - OpenCV-python
